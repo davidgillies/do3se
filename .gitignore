@@ -3,6 +3,7 @@
 
 # Code::Blocks Project
 *.cbp
+*.depend
 
 # Compiled Object files
 *.slo

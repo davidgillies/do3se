@@ -1,0 +1,3 @@
+module input
+
+end module
