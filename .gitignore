@@ -1,6 +1,9 @@
 # Prerequisites
 *.d
 
+# Code::Blocks Project
+*.cbp
+
 # Compiled Object files
 *.slo
 *.lo
