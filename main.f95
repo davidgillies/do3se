@@ -3,7 +3,9 @@ program do3se
     use parameters
     use output
     use input
-  implicit none
+    use config
+    use utils
+    implicit none
 
 
 

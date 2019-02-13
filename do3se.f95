@@ -4,6 +4,9 @@ module do3se_ml
     public
 
 contains
+! need to do some initialization which will be different based on case
+! will inputs/outputs for different subroutines be different and require different checks?
+
 
     subroutine m_yearly() ! run based on a year's data
 
